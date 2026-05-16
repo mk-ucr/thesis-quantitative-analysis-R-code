@@ -10,7 +10,7 @@
 ##                Table_Demographics.png  / .pdf
 ##                stats_table.csv (reproduced statistical tests)
 ##
-##  Author      : <your name>
+##  Author      : Martyna Krysiak
 ##  Last update : 2026
 ## ===========================================================
 
