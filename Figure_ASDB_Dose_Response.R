@@ -7,8 +7,6 @@
 ##   LSD  -> ug base (tartrate * 0.813)
 ##   Psilocybin -> mg absolute (mg/kg * 70, ug/kg * 70/1000)
 ##
-## USAGE: Place this script in the same folder as the ASDB
-##        Excel file, then source() or run it in RStudio.
 ## ============================================================
 
 library(readxl)
